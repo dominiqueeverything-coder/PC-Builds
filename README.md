@@ -25,13 +25,13 @@ Sourced and assembled all components for both builds, including CPU, motherboard
 
 <p align="center">
 My son PC I built: <br/>
-<img src="https://imgur.com/a/vjCs9vr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e7OOplf.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 MY personal PC I built: <br/>
-<img src="https://imgur.com/a/LnZf5Ei" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K2It6Qg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
