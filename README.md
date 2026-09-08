@@ -24,7 +24,7 @@ Sourced and assembled all components for both builds, including CPU, motherboard
 <h2>Project walk-through:</h2>
 
 <p align="center">
-My son PC I built: <br/>
+Son PC I built: <br/>
 <img src="https://i.imgur.com/e7OOplf.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
