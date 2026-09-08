@@ -1,4 +1,4 @@
-<h1>I Built 2 PC's (HR)</h1>
+<h1>I Built 2 PC's </h1>
 
  ### [Video Building 2 PC's](https://www.loom.com/share/156e4ed4891a40dea931b4a1248d56bf)
  
