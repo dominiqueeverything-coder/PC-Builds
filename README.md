@@ -37,7 +37,7 @@ MY personal PC I built: <br/>
 
 <p align="center">
 MY dual PC setup I Built: <br/>
-<img src="https://imgur.com/a/wqju9rx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3SmhwbG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
